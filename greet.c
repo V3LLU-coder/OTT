@@ -3,4 +3,5 @@
 
 void greet() {
     printf("Hello, World!\n");
+    printf("Hej, världen!\n");
 }
