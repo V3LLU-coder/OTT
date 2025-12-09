@@ -2,5 +2,5 @@
 #include "greet.h"
 
 void greet() {
-    printf("Hello, World!\n");
+    printf("Hei, maailma!\n");    // Suomeksi vielä tänne lisätty
 }
